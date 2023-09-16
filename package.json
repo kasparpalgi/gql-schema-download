@@ -9,6 +9,7 @@
   "author": "Kaspar L. Palgi",
   "license": "ISC",
   "dependencies": {
+    "gq-cli": "^1.0.0",
     "graphql-url": "^2.0.5"
   }
 }
