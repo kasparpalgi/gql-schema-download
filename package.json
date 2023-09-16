@@ -1,0 +1,14 @@
+{
+  "name": "graphql-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaspar L. Palgi",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-url": "^2.0.5"
+  }
+}
